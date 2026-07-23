@@ -1,7 +1,10 @@
+<!-- ============================================================ -->
+<!--   SYED MOHD NABEEL — GitHub Profile README (Ultra Graphics)     -->
+<!-- ============================================================ -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,6,12,18,24&height=280&section=header&text=Hi%20There!%20I'm%20Harisudhaan%20%F0%9F%91%8B&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Data%20Scientist%20in%20the%20Making%20%7C%20Python%20%7C%20Aspiring%20ML%20Engineer&descAlignY=55&descSize=20" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,6,12,18,24&height=280&section=header&text=Hi%20There!%20I'm%20Syed%20Mohd%20Nabeel%20%F0%9F%91%8B&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Data%20Scientist%20in%20the%20Making%20%7C%20Python%20%7C%20Aspiring%20ML%20Engineer&descAlignY=55&descSize=20" width="100%"/>
 
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" width="100%"/>
 
@@ -16,7 +19,7 @@
 
 <br/><br/>
 
-<a href="https://github.com/HARISUDHAAN2006">
+<a href="https://github.com/mohdnabeel246">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/harisudhaan-sundaraselvan-5026b8352">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
@@ -29,9 +32,9 @@
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=HARISUDHAAN2006&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
-<img src="https://img.shields.io/github/followers/HARISUDHAAN2006?label=Followers&style=for-the-badge&color=0e75b6&logo=github" alt="Followers"/>
-<img src="https://img.shields.io/badge/dynamic/json?color=success&label=Public%20Repos&query=public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2FHARISUDHAAN2006&style=for-the-badge&logo=github" alt="Repos"/>
+<img src="https://komarev.com/ghpvc/?username=mohdnabeel246&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
+<img src="https://img.shields.io/github/followers/mohdnabeel246?label=Followers&style=for-the-badge&color=0e75b6&logo=github" alt="Followers"/>
+<img src="https://img.shields.io/badge/dynamic/json?color=success&label=Public%20Repos&query=public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fmohdnabeel246&style=for-the-badge&logo=github" alt="Repos"/>
 
 <br/><br/>
 
@@ -64,7 +67,7 @@
 </div>
 
 ```yaml
-name: S. Harisudhaan
+name: Syed Mohd Nabeel
 role: Data Science Undergraduate (3rd Year)
 focus: [Python, Machine Learning, Data Analysis, DSA, Business Intelligence]
 goal: Become a highly skilled Machine Learning Engineer
@@ -158,18 +161,18 @@ philosophy: "Consistency beats intensity. Learn, Build, Improve, Repeat."
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=HARISUDHAAN2006&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=HARISUDHAAN2006&theme=tokyonight&hide_border=true" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=mohdnabeel246&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=mohdnabeel246&theme=tokyonight&hide_border=true" height="165"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HARISUDHAAN2006&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohdnabeel246&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
 
 </div>
 
 <br/>
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=HARISUDHAAN2006&theme=tokyonight&hide_border=true&layout=compact" height="180"/>
-<img src="https://github-readme-stats.vercel.app/api?username=HARISUDHAAN2006&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&hide=stars,issues" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=mohdnabeel246&theme=tokyonight&hide_border=true&layout=compact" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api?username=mohdnabeel246&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&hide=stars,issues" height="180"/>
 </div>
 
 > ℹ️ The WakaTime card lights up automatically once you connect a WakaTime account and add the badge key to your profile repo.
@@ -183,7 +186,7 @@ philosophy: "Consistency beats intensity. Learn, Build, Improve, Repeat."
 ## 🏆 GitHub Trophies
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=HARISUDHAAN2006&theme=tokyonight&no-frame=true&row=2&column=4&margin-w=8&margin-h=8"/>
+<img src="https://github-profile-trophy.vercel.app/?username=mohdnabeel246&theme=tokyonight&no-frame=true&row=2&column=4&margin-w=8&margin-h=8"/>
 </div>
 
 <br/>
@@ -195,7 +198,7 @@ philosophy: "Consistency beats intensity. Learn, Build, Improve, Repeat."
 ## 📈 Contribution Activity
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=HARISUDHAAN2006&theme=tokyo-night&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mohdnabeel246&theme=tokyo-night&hide_border=true"/>
 </div>
 
 <br/>
@@ -207,7 +210,7 @@ philosophy: "Consistency beats intensity. Learn, Build, Improve, Repeat."
 ## 🧊 3D Contribution Calendar
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/HARISUDHAAN2006/HARISUDHAAN2006/main/profile-3d-contrib/profile-night-rainbow.svg" width="95%"/>
+<img src="https://raw.githubusercontent.com/mohdnabeel246/mohdnabeel246/main/profile-3d-contrib/profile-night-rainbow.svg" width="95%"/>
 </div>
 
 > ℹ️ This isometric calendar renders via the `yoshi389111/github-profile-3d-contrib` GitHub Action running on your profile repo — it regenerates automatically on a schedule once set up.
@@ -221,7 +224,7 @@ philosophy: "Consistency beats intensity. Learn, Build, Improve, Repeat."
 ## 🐍 Contribution Snake
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/HARISUDHAAN2006/HARISUDHAAN2006/output/github-contribution-grid-snake-dark.svg"/>
+<img src="https://raw.githubusercontent.com/mohdnabeel246/mohdnabeel246/output/github-contribution-grid-snake-dark.svg"/>
 </div>
 
 > ℹ️ To enable this animation, add the `Platane/snk` GitHub Action to your profile repo — it auto-generates the snake SVG from your contribution graph.
@@ -265,10 +268,10 @@ philosophy: "Consistency beats intensity. Learn, Build, Improve, Repeat."
 
 <div align="center">
 
-<a href="#"><img src="https://github-readme-stats.vercel.app/api/pin/?username=HARISUDHAAN2006&repo=house-price-prediction&theme=tokyonight&hide_border=true"/></a>
-<a href="#"><img src="https://github-readme-stats.vercel.app/api/pin/?username=HARISUDHAAN2006&repo=student-performance-prediction&theme=tokyonight&hide_border=true"/></a>
-<a href="#"><img src="https://github-readme-stats.vercel.app/api/pin/?username=HARISUDHAAN2006&repo=spam-email-detection&theme=tokyonight&hide_border=true"/></a>
-<a href="#"><img src="https://github-readme-stats.vercel.app/api/pin/?username=HARISUDHAAN2006&repo=customer-segmentation&theme=tokyonight&hide_border=true"/></a>
+<a href="#"><img src="https://github-readme-stats.vercel.app/api/pin/?username=mohdnabeel246&repo=house-price-prediction&theme=tokyonight&hide_border=true"/></a>
+<a href="#"><img src="https://github-readme-stats.vercel.app/api/pin/?username=mohdnabeel246&repo=student-performance-prediction&theme=tokyonight&hide_border=true"/></a>
+<a href="#"><img src="https://github-readme-stats.vercel.app/api/pin/?username=mohdnabeel246&repo=spam-email-detection&theme=tokyonight&hide_border=true"/></a>
+<a href="#"><img src="https://github-readme-stats.vercel.app/api/pin/?username=mohdnabeel246&repo=customer-segmentation&theme=tokyonight&hide_border=true"/></a>
 
 <br/>
 
@@ -401,7 +404,7 @@ I enjoy learning concepts from the ground up, understanding how things work inte
 
 <div align="center">
 
-<a href="https://github.com/HARISUDHAAN2006"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://github.com/mohdnabeel246"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/harisudhaan-sundaraselvan-5026b8352"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:harisudhaan2006@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://leetcode.com/u/S_HARISUDHAAN/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
